@@ -8,3 +8,6 @@
 - 📫 How to reach me: hotmail - raviitejjaa@hotmail.com
 - 😄 Pronouns: He/His
 
+
+
+[![Ravi-Teja-Meruva github stats](https://github-readme-stats.vercel.app/api?username=Ravi-Teja-Meruva)](https://github.com/Ravi-Teja-Meruva/github-readme-stats)
